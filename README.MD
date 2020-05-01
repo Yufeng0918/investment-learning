@@ -291,3 +291,12 @@
 - Income statement, net income
 - Cashflow Statement, net incoming from continuing operation
 - 特斯拉负债率42%， 高风险
+#### 股本回报率
+- return on equity = net income/equity
+- 单位股本能产生利润的效率
+- 股本回报率大于15%
+- AAPL
+    + 利润: 55.3
+    + 股本: 90.5
+    + 股本回报率：55.92
+- 股票回购，用债务降低股本
