@@ -300,3 +300,7 @@
     + 股本: 90.5
     + 股本回报率：55.92
 - 股票回购，用债务降低股本
+- 考虑因素
+    + 运营资金充足， current asset 大于 current liability
+        + Balance sheet, Total Current Asset, Total Current Liability
+    + 长期负债是否4年内还清，总负债率在30%一下
