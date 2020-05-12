@@ -438,3 +438,37 @@
 - 对手公司员工
 - 上下游公司员工：例如：库克，张忠谋
 - 对手和上下游公司员工的看法更精确   
+
+
+## 行业划分
+- cyclical: materials, consumer
+- sensitive: communication service, energy, industrials, IT
+- defensive: consumer staples, healthcare, utilities
+- 划分不是绝对的
+- 具体要看商业模式和数据分析
+- groufocus 查找行业数据
+#### Sector1: energy
+- 属性： sensitive
+- industry group：energy
+- industries: energy equipment & services, oil gas & consumable fuels
+#### Sector2: Materials
+- 属性： cyclical
+- industry group：materials
+- industries: chemicals, construction materials, container & packaging, metals & mining, paper & forest products
+#### Sector3: Industrials
+- 属性： sensitive
+- industry group：capital goods, commerical & professinal service, Transportation
+- industries: energy equipment & services, oil gas & consumable fuels
+#### Sector4: consumer discretionary
+- 属性： cyclical
+- industry group：automoblie & componennts, consuer durable & apparel, consumer service, retailing
+#### Sector5: consumer staples
+- 属性： defensive
+- industry group: food & staples retailing, food beverage & tobacco, household & personal product
+#### Sector6: health care
+- defensive
+- health care equipment & service, pharmaceuticals, biotechnology & life sciences
+#### Sector7: financials
+- cyclical
+- banks, diversified fan
+
