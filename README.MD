@@ -441,34 +441,25 @@
 
 
 ## 行业划分
-- cyclical: materials, consumer
-- sensitive: communication service, energy, industrials, IT
-- defensive: consumer staples, healthcare, utilities
+- cyclical: materials, Consumer Discretionary， financial service， real estate, 高度依赖经纪
+- sensitive: communication service, energy, industries, IT, 对经济有一定依赖
+- defensive: consumer staples, healthcare, utilities，对经济依赖程度低
 - 划分不是绝对的
 - 具体要看商业模式和数据分析
 - groufocus 查找行业数据
-#### Sector1: energy
-- 属性： sensitive
-- industry group：energy
-- industries: energy equipment & services, oil gas & consumable fuels
-#### Sector2: Materials
-- 属性： cyclical
-- industry group：materials
-- industries: chemicals, construction materials, container & packaging, metals & mining, paper & forest products
-#### Sector3: Industrials
-- 属性： sensitive
-- industry group：capital goods, commerical & professinal service, Transportation
-- industries: energy equipment & services, oil gas & consumable fuels
-#### Sector4: consumer discretionary
-- 属性： cyclical
-- industry group：automoblie & componennts, consuer durable & apparel, consumer service, retailing
-#### Sector5: consumer staples
-- 属性： defensive
-- industry group: food & staples retailing, food beverage & tobacco, household & personal product
-#### Sector6: health care
-- defensive
-- health care equipment & service, pharmaceuticals, biotechnology & life sciences
-#### Sector7: financials
-- cyclical
-- banks, diversified fan
+- 巴菲特偏爱Consumer staples
+
+| Sector | 属性 | Industry Group |
+| ------ | ---- | ----------|
+|Materials|cyclical|materials|
+|Real estate|cyclical|real estate|
+|Financial|cyclical|Banks, Diversified Financials, Insurance|
+|Consumer discretionary|cyclical|automobile & components, consumer durable & apparel, consumer service, retailing|
+|Industrials|sensitive|capital goods, commercial & professional service, Transportation|
+|Energy|sensitive| energy equipment & services, oil gas & consumable fuels |
+|Information Technology|sensitive|Software & Services, Technology Hardware & Equipment, Semiconductors & Semiconductor Equipment|
+|Communication service|sensitive|Telecommunication Services, Media & Entertainment|
+|Utilies|defensive|Utilities|
+|Consumer staples|defensive|food & staples retailing, food beverage & tobacco, household & personal product|
+|Health care|defensive|health care equipment & service, pharmaceuticals, biotechnology & life sciences|
 
