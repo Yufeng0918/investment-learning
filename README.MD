@@ -463,3 +463,62 @@
 |Consumer staples|defensive|food & staples retailing, food beverage & tobacco, household & personal product|
 |Health care|defensive|health care equipment & service, pharmaceuticals, biotechnology & life sciences|
 
+
+## 行业趋势和体量
+#### 查询
+- Google
+- Statista: https://www.statista.com/
+- Nation Master: https://www.nationmaster.com/
+- World Bank: https://data.worldbank.org/
+#### 非常有价值
+- consumer staples
+    + 长期增长属于平均水平
+    + 非常多很好的公司
+    + 利润相对不高
+    + 依靠品牌，效率，渠道优势
+- healthcare
+    + 长期增长高于平均水平
+    + 提价能力高于平均水平
+    + 非常多好公司，需要很多专业知识
+- utilities
+    + 长期增长属于平均水平
+    + 不少hidden gems
+    + 相对负债更高
+- communication service media & entertainment
+    + 长期属于高水平
+    + 尤其是互联网公司，非常有投资价值
+    + 有很多护城河很深的公司
+- real estate - reits
+    + 长期增长高于平均水平
+    + 抗通货膨胀和货币贬值
+    + 相对较高分红
+    + 税务优待
+#### 投资要慎重
+- energy
+    + 受额外政治因素影响，判断难度大
+    + 传统能源可能被新能源取代
+    + 很多期货交易
+    + 不是行业人士，不要随便投
+- material
+    + 受额外政治因素影响，判断难度大
+    + 包括化工，金属，建筑材料，外包装
+    + 很多期货交易
+    + 不是行业人士，不要随便投
+- industrial
+    + 大部分重资产运营，负债高于平均水平
+    + 可能有表外负债
+    + 对经纪依赖程度高
+    + 利润波动大
+- financial
+    + 很多公司杠杆很高
+    + 表外负债普标
+    + 产品结构相对负债，年报表复杂
+- information technology
+    + 长期增长高于平均水平
+    + 对行业知识要求很高
+    + 不少好公司
+- real estate management & development    
+    + 杠杆率高，财务风险大
+    + 表外负债不容易察觉
+    + 周期型搞
+    + 利润波动大
