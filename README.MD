@@ -663,4 +663,116 @@
     + 类似案例历史
     + 主要分析竞争者的护城河
     + 数据趋势   
-  
+***
+
+## 风险
+#### 风险的含义
+- 资本安全角度：损失本金的可能
+- 从投资决策的角度：影响投资决定发送误判，或者公司价值的因素的总和
+
+#### 风险的误解
+- 波动不是风险
+- 除非在没有计划好投资时间跨度的前提下
+
+#### 投资 vs 投机 vs 赌博
+- 投资： 大概率获利，本金比较安全
+- 投机： 不是大概率获利或者本金不安全
+- 赌博：绩效概率获利，本金极度不安全
+
+#### 投资的两个维度
+- 获利概率
+- 本金安全 (乘法题 vs 加法题)
+- 做法
+    + 深入研究，形成系统
+    + 获得概率优势和本金安全
+    + 从投机和赌博转为投资
+
+#### 拥有投资系统
+- 可重复：效率提升
+- 可提升: 持续降低风险，提高回报
+- 自恰：可重复提升的基石，拥有底层逻辑，可硬度大部分情况和对新情况判断
+- 做法
+    + 建立自己的投资系统
+    + 先模仿，再调整
+
+#### 主要风险类别
+- 投资者
+    + 认知风险：对公司相关的重要方面发生误判， e.g. 竞争优势，盈利能力，财务能力
+        + 完全认知不存在，要在有限时间内排出大部分认知风险
+        + 排出大部分风险后再能力圈内投资
+        + 盈利能力的误判：互联网公司
+        + 竞争优势的误判：AMD两个领域第二名
+        + 经纪环境：巴菲特加仓航空股
+    + 心态风险：因为心理因素导致不能执行自己的端盘
+        + 恐惧深跌，贪图非理性生长，厌恶亏损，比较心态，神话个人和团队
+        + 应对：锻炼心态，借助peer group的力量
+    + 价值投资知易行难
+        + 延迟满足：需要耐心等待合适的机会
+        + 不从众：言语做出大部分人不同的决定
+- 竞争风险
+    + 公司相对竞争优势发生变化
+    + 不断跟踪公司竞争对手变化
+    + 例如：诺基亚垄断，百度公司文化变化，costco挑战walmart
+    + 对竞争的正确分析是长期投资的基石，也是最困难的部分
+- 行业风险
+    + 行业的体量和利润变化
+    + 行业整体被替代，比如胶卷，传统手机，中国手机市场进入收缩期，石油行业
+- 政策风险
+    + 政策原因导致公司盈利能力
+    + 行业优惠政策撤销，例如：中国光伏行业，中国停止发放游戏版号
+    + 关税的增加，2018 中美贸易战下的外贸公司
+    + 例如: 2008经纪危机, 希腊, 俄罗斯石油行业
++ 控制好风险，顺势额为，在趋势面前，最优秀的团队也可能无计可施    
+- 财务风险
+	+ 流动性风险
+		+ current ratio = current asset/current liability
+		+ quick ratio = (cash  + markable securities + receivables) / current liabilities 
+		+ cash ratio = (cash  + markable securities) / current liabilities 
+		+ ratio > 1, 三个指标逐渐严格，看公司是否有短期还债的能力
+	+ 总债务风险
+	    + 债务水平
+	        - 四个个指标越小越好
+            - debit to asset = total debt/total asset
+            - debt to equity = total debt/total equity
+            - debt to capital = total debt /(total debt + total shareholder's equity)
+            - Financial leverage = average total asset / average total equity, average指一年之内
+        + 偿还能力
+            - interest coverage = earning before interest and taxtes / interest payment, 数值越大越好
+            - fixed charge coverage =  earning before interest and taxtes + lease payment / interest payment, 数值越大越好
+            - debt payment = total debt / net earnings, 小于4
+        + 依靠债务提高收益率
+        + 依靠债务维持竞争力
+        + 依靠债务续命
+	+ 利润率风险
+	    + 比较同行业公司和竞争对手情况
+	    + 比较和公司过去
+	    + cross profit margin = gross profit / revenue, 成本控制，比对手高
+	    + operating margin = earning before interest and tax / revenue， 运营能力，比对手高
+	    + pretax margin = earnings before tax / revenue， 比对手高
+	    + net profit margin = net earning / revenue, 比对手高
+	    + return on asset = net earnings / average total asset, 比对手高
+	    + return on equity = net earnings / average total equity, 大于15%
+	+ 运营风险
+	    + receivables turnover = annual sales / average receivable, 一年卖多少轮货，比对手高
+	    + days of sales outstanding = 365 / receivables turnover, 比对手低
+	    + inventory turnover = cost of goods sold / average inventory, 一年买多少轮货，比对手高
+	    + days of inventory on hand = 365 / inventory turnover, 比对手低
+	    + payable turnover = purchases / average trade payables, 比对手低，欠供货商的钱
+	    + number of days payable = 365 / payable turnover, 比对手高，付款期限，越高越好
+	    + cash convention cycle = days of sales outstanding + days of inventory on hand - number of days payable, 比对手低，比自己过去更低
+- 数量分析 vs 质量分析
+    + 数量分析1家公司是否过关，值不值得花更多时间研究
+    + 数量分析是质量分析的数据化，帮助理解和分析公司，不要过于依赖和过度解读
+    + NCAV = cash & cash equivalent + partial receivable + partial inventory - total liability 来计算安全边际
+- 管理层风险
+    + 最高决策人换人， 例如台积电张忠谋，王石，乔布斯
+    + 团队分裂， 内讧，党争
+    + 资本控制
+- 市场风险
+    + 利息大幅提高：反相关
+    + 流动性不够：流动盘总量，平均每天交易量大小
+    + 其他资产吸收资金
+- 顾客风险
+    + 需求变化， 电脑到手机，
+    + 行为认知变化
+    + 行为方式
